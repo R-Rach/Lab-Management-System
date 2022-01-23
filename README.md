@@ -3,12 +3,17 @@
 Scope
 
 ● A complete lab booking portal for facilitating booking of IPC Labs and Resources
-● Deliverables: Final Web Application
-● Functionality:
-  ○ Faculty: Consolidated view of all bookings and request booking of a lab
-  ○ Student : Consolidated View of all booked and free labs
-  ○ Admin: Approve/Cancel/Modify booking request, modify lab details.
 
+● Deliverables: Final Web Application
+
+● Functionality:
+
+  ○ Faculty: Consolidated view of all bookings and request booking of a lab
+  
+  ○ Student : Consolidated View of all booked and free labs
+  
+  ○ Admin: Approve/Cancel/Modify booking request, modify lab details.
+  
 
 Main Features
 
